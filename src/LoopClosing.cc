@@ -413,7 +413,7 @@ void LoopClosing::CorrectLoop()
         unique_lock<mutex> lock(mMutexGBA);
         mbStopGBA = true;
 
-        mnFullBAIdx++;
+        mnFullBAIdx = !mnFullBAIdx;
 
         if(mpThreadGBA)
         {
