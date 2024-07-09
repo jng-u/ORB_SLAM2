@@ -1,3 +1,12 @@
+Modified version of ORB-SLAM2 for Ubuntu 20.04 and OpenCV 4.2
+
+Environments  
+1. Ubuntu 20.04
+2. OpenCV 4.2
+3. Eigen 3.2
+
+---
+
 # ORB-SLAM2
 **Authors:** [Raul Mur-Artal](http://webdiis.unizar.es/~raulmur/), [Juan D. Tardos](http://webdiis.unizar.es/~jdtardos/), [J. M. M. Montiel](http://webdiis.unizar.es/~josemari/) and [Dorian Galvez-Lopez](http://doriangalvez.com/) ([DBoW2](https://github.com/dorian3d/DBoW2))
 
