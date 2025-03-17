@@ -1,4 +1,6 @@
+<?xml version="1.0"?>
 <package>
+  <name>ORB_SLAM2</name>
   <description brief="ORB_SLAM2">
 
      ORB_SLAM2
